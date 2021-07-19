@@ -215,7 +215,7 @@ export default function Home(props) {
           </ProfileRelationsBoxWrapper>
           <ProfileRelationsBoxWrapper>
             <h2 className="smallTitle">
-              Pessoas da comunidade ({pessoasFavoritas.length})
+              Turma da RD ({pessoasFavoritas.length})
             </h2>
 
             <ul>
